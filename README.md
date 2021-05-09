@@ -20,4 +20,4 @@ THEN I find a concise, descriptive title
 Final Screenshot:
 (./Code/Homework/01-Homework/Assets/Final_Screenshot.png)
 
-Link to deployed application:
+Link to deployed application: https://spacerambler.github.io/01-homework/ 
